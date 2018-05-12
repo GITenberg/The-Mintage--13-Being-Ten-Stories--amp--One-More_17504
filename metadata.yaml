@@ -1,0 +1,34 @@
+_repo: The-Mintage--13-Being-Ten-Stories--amp--One-More_17504
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17504-h/images/cover.png
+creator:
+  author:
+    agent_name: Hubbard, Elbert
+    aliases:
+    - Ali Baba
+    - Elbertus, Fra
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '228'
+    url: http://www.gutenberg.org/2009/agents/228
+    wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
+description: ''
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+tableOfContents: Five babies -- To the west -- Simeon Stylites the Syrian -- Battle
+  of the Little Big Horn -- Sam -- Cleopatra and Cæsar -- A special occasion -- Uncle
+  Joe and Aunt Melinda -- Billy and the book -- John the Baptist and Salome -- The
+  master.
+title: 'The Mintage: Being Ten Stories & One More'
+url: http://www.gutenberg.org/ebooks/17504
