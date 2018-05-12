@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/228
     wikipedia: http://en.wikipedia.org/wiki/Elbert_Hubbard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17504#The-Mintage--13-Being-Ten-Stories--amp--One-More
 gutenberg_issued: '2006-01-12'
 gutenberg_type: Text
 identifiers:
